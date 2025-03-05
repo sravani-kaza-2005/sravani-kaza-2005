@@ -1,4 +1,4 @@
-- 👋 Hi,
+- 👋 Hi everyone,
 - 👀 I’m passinate Web Development 
 - 🌱 I’m currently learning Html, css, React, Spring, Tableau, Power Bi , Excel and other Technologies that help me build me to be in good position in future.
 - 💞️ I’m looking to collaborate on the development of the basic projects that I'm working on
@@ -85,7 +85,7 @@ multimedia galleries.
 
 ## 🎖 **Certifications**
 
-Red Hat Certified Enterprise Application Developer – Issued by Red Hat, 2024
+Red Hat Certified Enterprise Application Developer – Issued by Red Hat, 2024  https://www.credly.com/badges/15d752f5-30fc-4944-9719-477c243d30cd/public_url
 Saleforce Ai Associate – Issued by Saleforce, 2024
 Oracle GenAI Certification – Issued by Oracle, 2024
 Scrum Master Certification – Issued by Scrumstudy, 2024
