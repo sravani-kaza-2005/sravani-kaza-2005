@@ -49,7 +49,7 @@
 
 ### 🚀 **Personal Info**  
 **Passion:** Web Developer
-**Location:** Kolanukonda 
+**Location:** Kolanukonda**
 
 ---
 
