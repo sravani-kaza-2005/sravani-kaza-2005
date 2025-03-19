@@ -10,7 +10,7 @@
 - **Email:** [2200030051cseh@gmail.com](mailto:2200030051cseh@gmail.com)
      personal mail: sravani20499@gmail.com
 - **LinkedIn:** /https://www.linkedin.com/in/sravani-kaza-60775a24b/
-- **Instagram:** _._shravani.__
+- **Instagram:** __._shravani.___
 
 
 ---
