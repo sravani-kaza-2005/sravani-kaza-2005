@@ -34,6 +34,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3.3-green?logo=spring-boot&logoColor=white&style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
@@ -48,11 +49,19 @@
 
 ### 🚀 **Personal Info**  
 **Passion:** Web Developer
-**Location:** Kolanukonda**
+**Location:** Vijayawada**
 
 ---
 
 ## 💻 **Projects**
+
+**Real-Time Crisis Management System – Capstone Project Team Lead | Aug 2025 – Present
+◦ Designed and implemented a real-time crisis detection and alert system using multi-source data including weather APIs, social media feeds, and IoT sensors.
+◦ Developed modules for crisis prediction, severity scoring, and automated email/SMS notifications for rapid response.
+◦ Integrated interactive dashboards with time-series visualizations, image galleries, and map-based geolocation for real-time monitoring.
+◦ Implemented a premium module for restricted access users, ensuring advanced analytics and features for authorized personnel.
+◦ Ensured data security and privacy through encryption and structured data storage.
+◦ Technologies used: Python, Streamlit, Pandas, Plotly, PyDeck, Scikit-learn, SMTP, APIs.
 
 **Voice2Govt: Enhancing Citizen-Government Interaction Team Lead Sept 2024 - Dec 2024
 ◦ Developed a platform to bridge the gap between citizens and government officials for real-time issue reporting, feedback, and updates.
