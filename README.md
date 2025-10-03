@@ -40,9 +40,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) -->
 
 
-- **Programming Languages:** Oops, python
-- **Full Stack Development:** HTML, CSS, SpringBoot, Streamlit
-- **Database:** Oracle, MySQL,
+- **Programming Languages:** Java, Oops Concepts, python(pandas, Numpy)
+- **Full Stack Development:** HTML, CSS, SpringBoot, Streamlit Framework
+- **Database:** MySQL,
 - **Cloud Services:** Basic AWS 
 - **Developer Tools:** VS Code, Jupyter Notebook, Eclipse
 - **Other Tools:** Power Bi , Excel 
