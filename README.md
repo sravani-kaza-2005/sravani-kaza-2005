@@ -1,6 +1,6 @@
 - 👋 Hi everyone,
 - 👀 I’m passinate Web Development 
-- 🌱 I’m currently learning Html, css, Spring Boot, Tableau, Power Bi , Excel and other Technologies that help me to be in good position in future.
+- 🌱 I’m currently learning Spring Boot,Html, css, Streamlit framework, Power Bi , Excel and other Technologies that help me to be in good position in future.
 - 💞️ I’m looking to collaborate on the development of the basic projects that I'm working on
 - 📫 How to reach me: You can contact me in Linkedin/https://www.linkedin.com/in/sravani-kaza-60775a24b/, or give an issue in some repository.
 
@@ -91,11 +91,12 @@ multimedia galleries.
 
 ## 🎖 **Certifications**
 
-Red Hat Certified Enterprise Application Developer – Issued by Red Hat, 2024  https://www.credly.com/badges/15d752f5-30fc-4944-9719-477c243d30cd/public_url
-Saleforce Ai Associate – Issued by Saleforce, 2024
-Oracle GenAI Certification – Issued by Oracle, 2024
-Scrum Master Certification – Issued by Scrumstudy, 2024
-AWS Certified Cloud Practitioner – Issued by Amazon Web Services, 2024
+- Red Hat Certified Enterprise Application Developer – Issued by Red Hat, 2024 [📜 View Certificate](https://www.credly.com/badges/15d752f5-30fc-4944-9719-477c243d30cd/public_url)
+- Salesforce AI Associate – Issued by Salesforce, 2024 [📜 View Certificate](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=/LuZcbdHO/X6ho6dfxxXOLi4vJ8xIHtRmPfYy+ep7cXbTfTHGH9vkFe3fEwMK5st)
+- Oracle GenAI Certification – Issued by Oracle, 2024 [📜 View Certificate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=62B48A346861822640AB17B063C99E43B3EDE0151573E9F5A748334B8728C2E8)
+- Scrum Master Certification – Issued by Scrumstudy, 2024 [📜 View Certificate](#) 
+- AWS Certified Cloud Practitioner – Issued by Amazon Web Services, 2024 [📜 View Certificate](https://www.credly.com/badges/eed9c966-e48c-45e1-ae73-29daf136906e/public_url)
+
 
 ## 🏆 **Achievements**
 
