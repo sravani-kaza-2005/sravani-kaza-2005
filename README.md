@@ -38,11 +38,11 @@
 
 
 - **Programming Languages:** Oops, python
-- **Full Stack Development:** HTML, CSS, Spring, Hibernate
-- **Database:** Oracle, MySQL, PostgreSQL
+- **Full Stack Development:** HTML, CSS, SpringBoot, Streamlit
+- **Database:** Oracle, MySQL,
 - **Cloud Services:** Basic AWS 
-- **Developer Tools:** VS Code, Git, Eclipse, Postman
-- **Other Tools:** Tableau, Power Bi , Excel 
+- **Developer Tools:** VS Code, Jupyter Notebook, Eclipse
+- **Other Tools:** Power Bi , Excel 
 
 
 ### 🚀 **Personal Info**  
@@ -54,12 +54,12 @@
 ## 💻 **Projects**
 
 **Real-Time Crisis Management System – Capstone Project Team Lead | Aug 2025 – Present
-◦ Designed and implemented a real-time crisis detection and alert system using multi-source data including weather APIs, social media feeds, and IoT sensors.
+◦ Designed and implemented a real-time crisis detection and alert system using multi-source data including weather APIs, social media feeds using NLP techniques.
 ◦ Developed modules for crisis prediction, severity scoring, and automated email/SMS notifications for rapid response.
 ◦ Integrated interactive dashboards with time-series visualizations, image galleries, and map-based geolocation for real-time monitoring.
 ◦ Implemented a premium module for restricted access users, ensuring advanced analytics and features for authorized personnel.
 ◦ Ensured data security and privacy through encryption and structured data storage.
-◦ Technologies used: Python, Streamlit, Pandas, Plotly, PyDeck, Scikit-learn, SMTP, APIs.
+◦ Technologies used: Python, Streamlit, Pandas, Numpy, Matplotlib, SMTP, APIs.
 
 **Voice2Govt: Enhancing Citizen-Government Interaction Team Lead Sept 2024 - Dec 2024
 ◦ Developed a platform to bridge the gap between citizens and government officials for real-time issue reporting, feedback, and updates.
