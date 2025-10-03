@@ -1,6 +1,6 @@
 - 👋 Hi everyone,
 - 👀 I’m passinate Web Development 
-- 🌱 I’m currently learning Spring Boot,Streamlit framework,Html,CSS,Power Bi , Excel and other Technologies that help me to be in good position in future.
+- 🌱 I’m currently learning Spring Boot,Streamlit framework,Html,css,Power Bi , Excel and other Technologies that help me to be in good position in future.
 - 💞️ I’m looking to collaborate on the development of the basic projects that I'm working on
 - 📫 How to reach me: You can contact me in Linkedin/https://www.linkedin.com/in/sravani-kaza-60775a24b/, or give an issue in some repository.
 
