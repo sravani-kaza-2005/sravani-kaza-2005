@@ -57,12 +57,12 @@
 ## 💻 **Projects**
 
 **Real-Time Crisis Management System – Capstone Project Team Lead | Aug 2025 – Present
---◦ Designed and implemented a real-time crisis detection and alert system using multi-source data including weather APIs, social media feeds using NLP techniques.
---◦ Developed modules for crisis prediction, severity scoring, and automated email/SMS notifications for rapid response.
---◦ Integrated interactive dashboards with time-series visualizations, image galleries, and map-based geolocation for real-time monitoring.
---◦ Implemented a premium module for restricted access users, ensuring advanced analytics and features for authorized personnel.
---◦ Ensured data security and privacy through encryption and structured data storage.
---◦ Technologies used: Python, Streamlit, Pandas, Numpy, Matplotlib, SMTP, APIs.
+◦ Designed and implemented a real-time crisis detection and alert system using multi-source data including weather APIs, social media feeds using NLP techniques.
+◦ Developed modules for crisis prediction, severity scoring, and automated email/SMS notifications for rapid response.
+◦ Integrated interactive dashboards with time-series visualizations, image galleries, and map-based geolocation for real-time monitoring.
+◦ Implemented a premium module for restricted access users, ensuring advanced analytics and features for authorized personnel.
+◦ Ensured data security and privacy through encryption and structured data storage.
+◦ Technologies used: Python, Streamlit, Pandas, Numpy, Matplotlib, SMTP, APIs.
 
 **Voice2Govt: Enhancing Citizen-Government Interaction Team Lead Sept 2024 - Dec 2024
 ◦ Developed a platform to bridge the gap between citizens and government officials for real-time issue reporting, feedback, and updates.
