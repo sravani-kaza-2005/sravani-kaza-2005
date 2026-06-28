@@ -21,7 +21,7 @@
 
 | **Degree**         | **Institute**                       | **Board / University** | **CGPA/Percentage** | **Year**    |
 |--------------------|-------------------------------------|------------------------|---------------------|-------------|
-| B.Tech CSE         | KL University,Vaddeswaram           | KLEF                   | 9.51 (Till 6th Sem) | 2022-2026   |
+| B.Tech CSE         | KL University,Vaddeswaram           | KLEF                   | 9.55                | 2022-2026   |
 | 10+2               | Narayana Junior College,Vijayawada  | BIEAP                  | 81.0%               | 2020-2022   |
 | Class X            | Nirmala E M High School,Mangalagiri | BSEAP                  | 9.7%                | 2020        |
 
